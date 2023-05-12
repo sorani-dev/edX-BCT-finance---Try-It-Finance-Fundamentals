@@ -7,8 +7,16 @@
   - Welcome to the Course
   - Legal Disclaimer
   - Getting Started
-- Lesson 1: What is Finance?, Inachevé
-- Lesson 2: Financial Statements, Inachevé
+- Lesson 1: What is Finance?
+  - Introduction
+  - Money and Value
+  - Finance
+- Lesson 2: Financial Statements
+  - Introduction
+  - Financial Statements Used in Accounting
+  - Balance Sheet
+  - Income Statement
+  - Cash Flow Statement
 - Lesson 3: Financial Ratios, Inachevé
 - Challenge, Inachevé
 - Wrap Up, Inachevé

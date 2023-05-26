@@ -17,6 +17,14 @@
   - Balance Sheet
   - Income Statement
   - Cash Flow Statement
-- Lesson 3: Financial Ratios, Inachevé
+- Lesson 3: Financial Ratios
+  - Introduction
+  - Debt Ratio
+  - Current Ratio
+  - Return on Sales (ROS)
+  - Asset Turnover Ratio
+  - Return on Equity (ROE)
+  - Cheat Sheet: Financial Ratios
+  - Try It: Financial Ratios
 - Challenge, Inachevé
 - Wrap Up, Inachevé
